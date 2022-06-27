@@ -4,7 +4,7 @@ By [Xiaoyu Xiang<sup>\*</sup>](https://engineering.purdue.edu/people/xiaoyu.xian
 
 This is the official Pytorch implementation of _Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution_.
 
-#### [Paper](https://arxiv.org/abs/2002.11616) | [Journal Version](https://arxiv.org/abs/2104.07473) | [Demo (YouTube)](https://youtu.be/8mgD8JxBOus) | [1-min teaser (YouTube)](https://www.youtube.com/watch?v=C1o85AXUNl8) | [1-min teaser (Bilibili)](https://www.bilibili.com/video/BV1GK4y1t7nb/)
+#### [Paper](https://arxiv.org/abs/2002.11616) | [Journal Version](https://arxiv.org/abs/2104.07473) | [Demo (YouTube)](https://youtu.be/8mgD8JxBOus) | [1-min teaser (YouTube)](https://www.youtube.com/watch?v=C1o85AXUNl8) | [1-min teaser (Bilibili)](https://www.bilibili.com/video/BV1GK4y1t7nb/) | :rocket: [Web Demo and Docker image on Replicate](https://replicate.com/mukosame/video-super-resolution)
 
 <table>
   <thead>
@@ -24,7 +24,7 @@ This is the official Pytorch implementation of _Zooming Slow-Mo: Fast and Accura
 </table>
 
 ## Updates
-
+- 2022.6.22: :rocket: Web Demo and Docker image available on [Replicate here](https://replicate.com/mukosame/video-super-resolution)
 - 2020.3.13 Add meta-info of datasets used in this paper
 - 2020.3.11 Add new function: video converter
 - 2020.3.10: Upload the complete code and pretrained models
